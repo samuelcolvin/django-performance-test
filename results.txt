@@ -1,0 +1,9 @@
+not creating data, already 100000 rows
+test_direct char_field time taken 18.669
+test_direct pos_int time taken 18.122
+test_direct char_field_index time taken 2.205
+test_direct pos_int_index time taken 1.862
+test_in char_field time taken 37.669
+test_in pos_int time taken 23.908
+test_in char_field_index time taken 5.556
+test_in pos_int_index time taken 5.275
